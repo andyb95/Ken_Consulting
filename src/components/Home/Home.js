@@ -1,9 +1,14 @@
 import React from 'react'
+import './Home.css'
 
 const Home = () => {
 
   return (
-    <div>Home.js</div>
+    <div className="home">
+      <div className="carousel">
+
+      </div>
+    </div>
   )
 }
 
