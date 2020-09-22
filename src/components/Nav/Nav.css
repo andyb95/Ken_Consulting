@@ -10,3 +10,16 @@
   top: 28px;
   color: white;
 }
+
+.links{
+  display: flex;
+  position: absolute;
+  right: 40px;
+  top: 28px;
+}
+
+.link{
+  text-decoration: none;
+  color: white;
+  margin-left: 25px;
+}
